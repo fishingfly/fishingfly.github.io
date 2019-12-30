@@ -1,9 +1,9 @@
 # ----------- CONFIGURABLE START -----------
 title:            "ZhouYu|Golang|独立开发者|云计算 blog|GitHub blog"
-description:      "Golang Stack独立开发者|欢迎来到 本博客 侃侃理想、谈谈人生、敲敲代码。"
+description:      "Golang Stack独立开发者|欢迎来到 本博客 设计你的环境 引入外部环境 寻求不确定反馈 选择无止境晋升的职业"
 url:              https://fishingfly.github.io # 域名
 signoff:          "ZhouYu" # Your name
-facebook_appid:   #liberxue
+facebook_appid:   #zhouyu
 google_analytics: UA-101222464-1
 share:            true 
 # 分页
