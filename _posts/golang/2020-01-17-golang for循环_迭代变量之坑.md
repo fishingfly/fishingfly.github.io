@@ -1,7 +1,7 @@
 ---
 layout: blog
 istop: true
-title: "golang for循环之迭代变量"
+title: "for循环之迭代变量"
 background: yellow
 background-image: https://fishingfly.github.io/style/images/music.jpg
 date:  2020-01-17
